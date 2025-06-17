@@ -1,6 +1,6 @@
 {
   "name": "obsidian-auto-workspace",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Automatically loads a specified workspace on desktop and mobile when Obsidian starts.",
   "main": "main.js",
   "scripts": {
