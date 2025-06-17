@@ -1,0 +1,10 @@
+
+{
+	"id": "auto-workspace-loader",
+	"name": "Auto Workspace Loader",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically loads a specified workspace on desktop and mobile when Obsidian starts.",
+    "author": "Laurenz",
+    "authorUrl": "https://github.com/LaurenzTU"
+}
