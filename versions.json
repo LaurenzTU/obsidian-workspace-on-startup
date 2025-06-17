@@ -1,6 +1,4 @@
 {
 	"1.0.0": "Initial release",
-	"1.0.1": "Updated to TypeScript and improved code structure.",
-	"1.0.2": "Added mobile compatibility check.",
-	"1.0.3": "Added separate settings for desktop and mobile workspaces."
+
 }

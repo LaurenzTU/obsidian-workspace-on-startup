@@ -1,6 +1,0 @@
-/* This makes the disabled setting text input look more clearly disabled. */
-.setting-item-control input[type="text"]:disabled {
-  background-color: var(--background-secondary-alt);
-  opacity: 0.5;
-  cursor: not-allowed;
-}
